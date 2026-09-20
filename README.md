@@ -1,16 +1,36 @@
-## Hi there 👋
+# Lucas Ribeiro
 
-<!--
-**LSRibeiro19/LSRibeiro19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economist focused on Business Intelligence, Data Analytics and data-driven decision-making.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bachelor's degree in Economics
+- 📊 Experience with Business Intelligence, KPIs and Power BI
+- 📈 Academic background in Statistics, Econometrics and Time Series Econometrics
+- 🎓 Former Econometrics teaching assistant
+- 💼 Experience with financial analysis, management indicators and business performance
+
+## Currently developing
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Data Science
+- 📁 Git & GitHub
+
+## Current learning path
+
+1. CS50's Introduction to Programming with Python — Harvard
+2. CS50's Introduction to Databases with SQL — Harvard
+3. Introduction to Data Science with Python — Harvard
+
+## Focus
+
+Combining Economics, Business Intelligence and Data Analytics to transform data into information that supports better business decisions.
+
+## Tools
+
+- Power BI
+- Microsoft Excel
+- Python — in progress
+- SQL — in progress
+- Git / GitHub — in progress
